@@ -45,14 +45,6 @@ React.js • HTML • CSS
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=PriyaJ31&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaJ31&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/priyanka-jawalkar20/
