@@ -1,17 +1,18 @@
 # Hi, I'm Priyanka 👋
 
 💻 **Software Engineer** — Distributed Systems · AI Integration
-📱 **Ex-Paytm** (One97 Communications) — production fintech systems, 90M+ monthly users
+🏢 **Currently at JMA Wireless** — building enterprise product features and internal platforms
+📱 **Previously at Paytm Money** (One97 Communications) — production fintech systems, 90M+ monthly users
 🎓 **M.S. Computer Science** — Syracuse University (GPA 3.6/4.0)
 
 ---
 
 ## 🧠 About Me
 
-- 2+ years building production systems at **Paytm Money** — engineered customer-facing workflows and APIs directly serving millions of active user sessions
+- **2.5+ years of production engineering experience** — including customer-facing workflows and APIs at **Paytm Money** directly serving millions of active user sessions
 - Built **distributed job queues** (Redis, FastAPI, PostgreSQL) and **AI-powered security pipelines** (Llama 3, Ollama) — both live on GitHub
 - Strong in **API design**, **distributed systems**, **system reliability**, and integrating **local LLMs** into production-style architectures
-- Currently building backend REST APIs at **Syracuse University** (Node.js, PostgreSQL, RBAC, audit logging)
+- Currently building product features and internal platforms at **JMA Wireless**; previously built backend REST APIs at **Syracuse University** (Node.js, PostgreSQL, RBAC, audit logging)
 
 ---
 
@@ -29,11 +30,14 @@
 **Languages:**
 `Python` `Java` `JavaScript` `TypeScript` `SQL` `C++`
 
-**Backend:**
-`FastAPI` `Spring Boot` `Node.js` `Flask` `REST APIs` `JWT` `RBAC`
+**Backend & Systems:**
+`FastAPI` `Spring Boot` `Node.js` `Flask` `REST APIs` `JWT` `RBAC` `System Design` `Distributed Systems`
 
 **Databases & Messaging:**
 `PostgreSQL` `MySQL` `MongoDB` `Redis`
+
+**Frontend:**
+`React` `Svelte` `HTML` `CSS`
 
 **Cloud & DevOps:**
 `AWS` `Docker` `Docker Compose` `CI/CD` `Linux` `Git`
